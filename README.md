@@ -1,2 +1,0 @@
-# array
-developed by anitha
